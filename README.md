@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sakshibedre143
+- 👋 Hi, I’m sakshi bedre
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...computer science (B.Sc.)
-- 💞️ I’m looking to collaborate on ...web development and app development
+- 💞️ I’m looking to collaborate on ...dataa analyst, web development and app development
 - 📫 How to reach me ...by gmail sakshibedre55@gmail.com
 - 😄 Pronouns: ...sakshi
 - ⚡ Fun fact: ...is me
